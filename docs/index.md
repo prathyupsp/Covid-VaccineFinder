@@ -6,7 +6,7 @@
 <html>
 
 <head>
-<title>Covid-19 Vaccine Availability Finder by Jijish Thomas</title>
+<title>Covid-19 Vaccine Availability Finder by Prathyush</title>
     <meta charset="UTF-8">
     <meta name="description" content="Covid-19 Vaccine Availability Finder">
     <meta name="keywords" content="covid, vaccine, vaccineavailability">
