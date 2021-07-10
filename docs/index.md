@@ -104,8 +104,8 @@
 
     <footer class="footer">
         <div class="container" style="text-align: center;">
-            <span class="text-muted"><span style="color:red">❤</span> Social responsibility Initiative by <a
-                    href="https://www.facebook.com/jijishthomas"> Jijish</a>
+            <span class="text-muted"><span style="color:red">❤</span> Social responsibility Initiative by Prathyush
+
             </span></br>
         </div>
     </footer>
